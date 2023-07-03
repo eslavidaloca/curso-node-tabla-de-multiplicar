@@ -1,6 +1,12 @@
 # Notas:
 
 Este es mi primer programa en Node.
+
+Para ejecutarlo se tiene que usar el siguiente comando:
+```
+node app banderas-a-usar
+```
+
 Estas son las banderas que se pueden usar al ejecutar el programa:
 
 ```
